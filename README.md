@@ -6,7 +6,7 @@
 
 **Students**:
 * Manuel Félix Parma (u202335)
-* Clara Pena (u186416)
+* Clara Pena Rodríguez (u186416)
 
 **University**: Universitat Pompeu Fabra
 
