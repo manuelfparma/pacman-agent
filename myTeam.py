@@ -255,6 +255,7 @@ class OfensiveFeatures():
                 'food_eaten': 1000
                 }
 
+# This class is to contain features and weights for defensive playing
 class DefensiveFeatures():
     '''
     Copied from DefensiveReflexAgent.
@@ -473,3 +474,4 @@ class DefensiveMinimaxAgent(MinimaxAgent):
 
     def get_weights(self, game_state, action):
         return self.defensive_features.get_weights()
+      
